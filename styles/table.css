@@ -1,0 +1,123 @@
+.table-filters {
+  margin-bottom: 20px;
+}
+
+.table-filters label {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  font-size: 0.78rem;
+  font-weight: 600;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  max-width: 220px;
+}
+
+.table-filters select {
+  font-family: var(--font-body);
+  font-size: 0.95rem;
+  padding: 8px 10px;
+  border-radius: 8px;
+  border: 1px solid var(--border);
+  background: var(--bg-raised);
+  color: var(--text);
+}
+
+.table-wrapper {
+  overflow-x: auto;
+  border: 1px solid var(--border);
+  border-radius: 12px;
+}
+
+#comparativa-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.88rem;
+  min-width: 640px;
+}
+
+#comparativa-table thead th {
+  text-align: left;
+  padding: 12px 14px;
+  background: var(--bg-raised);
+  font-family: var(--font-heading);
+  font-size: 0.78rem;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  color: var(--text-muted);
+  border-bottom: 1px solid var(--border);
+}
+
+#comparativa-table tbody tr {
+  cursor: pointer;
+  transition: background 0.12s ease;
+}
+
+#comparativa-table tbody tr:hover {
+  background: var(--bg-alt);
+}
+
+#comparativa-table tbody td {
+  padding: 12px 14px;
+  border-bottom: 1px solid var(--border);
+  vertical-align: top;
+}
+
+#comparativa-table tbody tr:last-child td { border-bottom: none; }
+
+.tipus-pill {
+  display: inline-block;
+  padding: 3px 10px;
+  border-radius: 999px;
+  font-size: 0.72rem;
+  font-weight: 600;
+  color: white;
+  white-space: nowrap;
+}
+
+.bando-name {
+  font-family: var(--font-heading);
+  font-weight: 600;
+}
+
+/* Fonts (primary sources) grid */
+.fonts-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 14px;
+}
+
+.font-card {
+  background: var(--bg-raised);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 14px 16px;
+  cursor: pointer;
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.font-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 20px var(--shadow);
+}
+
+.font-card .font-number {
+  font-family: var(--font-heading);
+  font-size: 0.72rem;
+  font-weight: 700;
+  color: var(--accent);
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+.font-card h3 {
+  margin: 4px 0 4px;
+  font-size: 0.95rem;
+}
+
+.font-card .font-meta {
+  margin: 0;
+  font-size: 0.78rem;
+  color: var(--text-muted);
+}

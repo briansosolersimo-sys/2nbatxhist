@@ -1,0 +1,281 @@
+[
+  {
+    "id": "cp1",
+    "afterEventId": "t04",
+    "rangeLabel": "1870-1875",
+    "titol": "El retorn dels Borbons",
+    "comentariSintesi": "Cánovas va preparar minuciosament el retorn de la monarquia: primer va aconseguir l'abdicació d'Isabel II en favor d'Alfons (1870), i després va fer signar a Alfons el Manifest de Sandhurst (1874) per presentar-lo com una opció moderada i conciliadora. Quan el pronunciament militar de Martínez Campos a Sagunt va accelerar el procés sense que Cánovas ho volgués així, la monarquia ja tenia una base civil preparada gràcies al manifest, cosa que va facilitar l'entusiasta rebuda d'Alfons XII a Barcelona el gener de 1875.",
+    "preguntes": [
+      {
+        "pregunta": "Qui va inspirar i aconsellar el contingut conciliador del Manifest de Sandhurst signat per Alfons de Borbó?",
+        "opcions": ["Práxedes Mateo Sagasta", "Antonio Cánovas del Castillo", "Arsenio Martínez Campos", "Joaquín Costa"],
+        "correcta": 1,
+        "explicacio": "Cánovas va aconsellar Alfons i va inspirar l'esperit conciliador del manifest, tot i que el va signar el mateix Alfons."
+      },
+      {
+        "pregunta": "Per què el pronunciament de Sagunt (desembre de 1874) va ser un contratemps per als plans de Cánovas?",
+        "opcions": ["Perquè Cánovas no volia el retorn de la monarquia", "Perquè Cánovas hauria preferit una via no militar per restaurar la monarquia", "Perquè el general Martínez Campos era carlí", "Perquè Alfons XII encara vivia a Espanya"],
+        "correcta": 1,
+        "explicacio": "Cánovas buscava una restauració \"civil\", legitimada pel Manifest de Sandhurst, no un cop de força militar prematur."
+      },
+      {
+        "pregunta": "On es va formar Alfons militarment abans de tornar a Espanya, posant-se en contacte amb el sistema bipartidista?",
+        "opcions": ["A l'Acadèmia de West Point", "A l'Acadèmia militar de Sandhurst", "A l'Acadèmia militar de Saint-Cyr", "A l'Acadèmia de Toledo"],
+        "correcta": 1,
+        "explicacio": "Cánovas el va enviar a Sandhurst (Anglaterra), on va conèixer el bipartidisme britànic que després inspiraria el \"torn pacífic\"."
+      }
+    ],
+    "pregunta_obert": {
+      "enunciat": "Explica, amb les teves paraules, per què es diu que el retorn dels Borbons va ser més una operació política ben preparada que no pas un simple cop de sort militar.",
+      "respostaIdeal": "Perquè Cánovas ho havia planificat en diverses fases: primer va aconseguir l'abdicació d'Isabel II (1870), després va preparar la imatge d'Alfons com a monarca constitucional i conciliador mitjançant el Manifest de Sandhurst (1874), i només al final es va produir el pronunciament militar de Sagunt, que de fet Cánovas hauria preferit evitar. La base civil i la legitimitat ja estaven construïdes abans que arribés cap acció militar."
+    }
+  },
+  {
+    "id": "cp2",
+    "afterEventId": "t08",
+    "rangeLabel": "1876-1879",
+    "titol": "Consolidar el sistema",
+    "comentariSintesi": "Un cop instal·lat al tron, Alfons XII va necessitar consolidar el règim en dos fronts alhora: el militar (fi de la guerra carlina, 1876) i el colonial (Pau de Zanjón, 1878), dues victòries que Cánovas va fer servir per legitimar la monarquia. Alhora, la Constitució de 1876 li donava un marc legal prou ampli, combinant elements de les constitucions de 1845 i 1869, per governar amb el suport de conservadors i liberals moderats. Però aquesta pau tenia esquerdes: la promesa d'autonomia a Cuba mai es va complir, i fora del sistema, el 1879 Pablo Iglesias fundava el PSOE, la primera gran organització que qüestionaria el règim des de l'esquerra obrera.",
+    "preguntes": [
+      {
+        "pregunta": "Quines dues \"pacificacions\" van ajudar a legitimar el règim d'Alfons XII entre 1876 i 1878?",
+        "opcions": ["La fi de la guerra carlina i la Pau de Zanjón a Cuba", "La independència de Cuba i Filipines", "El Pacte d'El Pardo i la Llei d'Associacions", "La Setmana Tràgica i el Tancament de Caixes"],
+        "correcta": 0,
+        "explicacio": "Ambdues victòries (1876 i 1878) van reforçar l'acceptació popular de la Restauració just quan començava."
+      },
+      {
+        "pregunta": "Quina promesa de la Pau de Zanjón (1878) no es va complir mai a Cuba, sembrant la llavor de conflictes futurs?",
+        "opcions": ["L'abolició de l'esclavitud", "L'autonomia administrativa", "La independència immediata", "El sufragi universal"],
+        "correcta": 1,
+        "explicacio": "L'autonomia promesa no va arribar mai, un greuge que, sumat a l'aranzel proteccionista de 1891, explicarà l'esclat de la guerra de 1895."
+      },
+      {
+        "pregunta": "Quina institució política va combinar principis de les constitucions de 1845 i 1869 per donar estabilitat legal al nou règim?",
+        "opcions": ["El Pacte d'El Pardo", "La Constitució de 1876", "La Llei d'Associacions", "El Manifest de Sandhurst"],
+        "correcta": 1,
+        "explicacio": "La Constitució de 1876 és el marc legal del sistema canovista, que barreja l'herència moderada de 1845 amb algunes llibertats de 1869."
+      }
+    ],
+    "pregunta_obert": {
+      "enunciat": "Relaciona la Constitució de 1876 amb la fundació del PSOE el mateix 1879: per què una fa possible l'altra, tot i que la qüestiona?",
+      "respostaIdeal": "La Constitució de 1876 reconeix drets i llibertats (encara que regulables per llei), cosa que crea l'espai legal mínim perquè puguin existir organitzacions obreres com el PSOE. Però el PSOE, com a partit marxista, neix precisament per qüestionar el sistema polític i social que aquesta mateixa Constitució sosté, oferint una alternativa des de fora del torn pacífic."
+    }
+  },
+  {
+    "id": "cp3",
+    "afterEventId": "t14",
+    "rangeLabel": "1881-1888",
+    "titol": "S'obre el joc polític i obrer",
+    "comentariSintesi": "A partir de 1881, Sagasta va ampliar la base del sistema legalitzant els partits que havien quedat fora (republicans, socialistes, carlins, catalanistes), seguint l'esperit inclusiu de la Constitució de 1876. Aquesta obertura no va ser només política: també va permetre organitzar-se legalment el moviment obrer i el catalanisme, que fins llavors havien actuat de manera fragmentada o clandestina. En pocs anys van néixer així la Lliga de Catalunya (1887), la Llei d'Associacions (1887) i la UGT (1888): organitzacions que, cadascuna en el seu àmbit, començarien a qüestionar el statu quo del torn pacífic des de fora.",
+    "preguntes": [
+      {
+        "pregunta": "Quin esdeveniment de 1881 va obrir la porta perquè poguessin néixer organitzacions com la UGT (1888) uns anys després?",
+        "opcions": ["La Constitució de 1876", "La legalització de la majoria de partits d'oposició pel govern Sagasta", "El Pacte d'El Pardo", "La mort de Cánovas"],
+        "correcta": 1,
+        "explicacio": "L'obertura legal de 1881 és la porta que farà possible tota l'organització obrera i catalanista dels anys següents."
+      },
+      {
+        "pregunta": "Quina organització sindical socialista es va fundar el 1888, l'any en què també s'aplicava la nova Llei d'Associacions?",
+        "opcions": ["El PSOE", "La UGT", "La CNT", "La Lliga Regionalista"],
+        "correcta": 1,
+        "explicacio": "La UGT neix el 1888 al Primer Congrés Nacional Obrer, amb Pablo Iglesias com a president."
+      },
+      {
+        "pregunta": "Quina llei de 1887 va fer efectiu a la pràctica el dret d'associacionisme obrer que ja reconeixia, en teoria, la Constitució de 1876?",
+        "opcions": ["La Llei de jurisdiccions", "La Llei d'Associacions", "La Llei de Mancomunitats", "La \"ley del candado\""],
+        "correcta": 1,
+        "explicacio": "La Llei d'Associacions de 1887 va fer efectiu a la pràctica un dret que la Constitució ja reconeixia sobre el paper des de 1876."
+      }
+    ],
+    "pregunta_obert": {
+      "enunciat": "Per què creus que el catalanisme (Lliga de Catalunya, 1887) i el sindicalisme obrer (UGT, 1888) es van organitzar formalment gairebé al mateix moment?",
+      "respostaIdeal": "Perquè ambdós es van beneficiar de la mateixa obertura legal iniciada per Sagasta el 1881 i consolidada amb la Llei d'Associacions de 1887: un cop es van poder legalitzar partits i associacions que fins llavors havien actuat de manera fragmentada o clandestina, tant el moviment catalanista com l'obrer es van poder organitzar formalment gairebé en paral·lel."
+    }
+  },
+  {
+    "id": "cp4",
+    "afterEventId": "t18",
+    "rangeLabel": "1890-1893",
+    "titol": "Sufragi, identitat i violència",
+    "comentariSintesi": "Els anys 1890 van portar canvis en direccions oposades. D'una banda, el liberalisme va ampliar formalment la democràcia (sufragi universal masculí, 1890) i el catalanisme es va unificar organitzativament (Unió Catalanista, 1891): el sistema semblava obrir-se. De l'altra, la mateixa dècada va veure com el descontentament social més extrem esclatava en violència: l'assalt de Jerez (1892) i els atemptats anarquistes de 1893 (Martínez Campos, la bomba del Liceu) mostren que, per a una part de la classe obrera, la via legal no era prou ràpida ni suficient. Aquest contrast —obertura formal davant de radicalització de la protesta— anticipa la doble crisi, colonial i social, que esclatarà a finals de segle.",
+    "preguntes": [
+      {
+        "pregunta": "Quina ampliació de drets es va produir el 1890, coincidint amb la primera diada de l'1 de Maig?",
+        "opcions": ["La llibertat de premsa", "El sufragi universal masculí", "El dret de vaga", "El vot femení"],
+        "correcta": 1,
+        "explicacio": "El Partit Liberal el va instaurar el 1890, encara que el caciquisme en limitava molt l'efecte real."
+      },
+      {
+        "pregunta": "Quina estratègia seguien els anarcocomunistes responsables dels atemptats de 1893 (Martínez Campos, bomba del Liceu)?",
+        "opcions": ["El sindicalisme reformista", "La \"propaganda pel fet\"", "El parlamentarisme", "El regeneracionisme"],
+        "correcta": 1,
+        "explicacio": "Es tracta de la via violenta de l'anarquisme (Kropotkin, Malatesta), diferent de l'anarcosindicalisme català més orientat a l'acció sindical."
+      },
+      {
+        "pregunta": "Quina organització catalanista es va fundar el 1891 per unificar els grups sorgits del Centre Català i la Lliga de Catalunya?",
+        "opcions": ["La Lliga Regionalista", "La Unió Catalanista", "Solidaritat Catalana", "Esquerra Republicana"],
+        "correcta": 1,
+        "explicacio": "La Unió Catalanista (1891) és el precedent directe de la Lliga Regionalista, fundada deu anys després."
+      }
+    ],
+    "pregunta_obert": {
+      "enunciat": "Explica la diferència entre l'anarcosindicalisme català i l'anarcocomunisme andalús d'aquests anys, amb un exemple de cadascun.",
+      "respostaIdeal": "L'anarcosindicalisme (Bakunin), majoritari a Catalunya, defensava l'acció sindical organitzada (vagues, federacions) com a via de transformació social. L'anarcocomunisme (Kropotkin, Malatesta), més present a Andalusia, apostava per l'acció directa i violenta (\"propaganda pel fet\"). Exemples: l'assalt a Jerez de la Frontera (1892) seria anarcocomunista rural, mentre que l'organització sindical catalana posterior (Solidaritat Obrera, CNT) seguiria la via anarcosindicalista."
+    }
+  },
+  {
+    "id": "cp5",
+    "afterEventId": "t22",
+    "rangeLabel": "1895-1897",
+    "titol": "La crisi colonial es dispara",
+    "comentariSintesi": "El 1895, l'incompliment de l'autonomia promesa a Zanjón i l'aranzel de 1891 van fer esclatar la insurrecció cubana liderada per Martí, Gómez i Maceo; Espanya hi va respondre amb la repressió duríssima de Weyler (reconcentración), sense aconseguir sufocar-la. En paral·lel, a la Península, la violència anarquista continuava escalant (atemptat del Corpus i Procés de Montjuïc, 1896) fins a culminar en l'assassinat de Cánovas el 1897: la pèrdua, just abans del Desastre, de l'home que havia dissenyat tot el sistema de la Restauració. Dues crisis, la colonial i la social, convergien perillosament al mateix moment.",
+    "preguntes": [
+      {
+        "pregunta": "Qui va liderar la insurrecció cubana que va començar amb el \"Grito de Baire\" el 1895?",
+        "opcions": ["Valeriano Weyler", "José Martí", "Antonio Cánovas del Castillo", "Emilio Aguinaldo"],
+        "correcta": 1,
+        "explicacio": "Martí, amb Máximo Gómez i Antonio Maceo, va liderar la insurrecció amb el suport dels camperols de l'orient de Cuba."
+      },
+      {
+        "pregunta": "Qui va assassinar Antonio Cánovas del Castillo el 1897, i dins de quina estratègia?",
+        "opcions": ["Michele Angiolillo, dins la \"propaganda pel fet\"", "José Martí, per la guerra de Cuba", "Paulí Pallàs, per l'atemptat del Liceu", "Valeriano Weyler, per rivalitat política"],
+        "correcta": 0,
+        "explicacio": "L'anarquista italià Angiolillo va actuar com a venjança pel Procés de Montjuïc, dins l'estratègia de la \"propaganda pel fet\"."
+      },
+      {
+        "pregunta": "Quin general espanyol va aplicar la política de \"reconcentración\" per combatre la insurrecció cubana?",
+        "opcions": ["Arsenio Martínez Campos", "Valeriano Weyler", "Antonio Maceo", "Máximo Gómez"],
+        "correcta": 1,
+        "explicacio": "Weyler va aplicar la reconcentración (despoblament i camps de concentració) per aïllar els insurgents, amb un cost humà molt elevat entre els camperols cubans."
+      }
+    ],
+    "pregunta_obert": {
+      "enunciat": "Per què es pot dir que l'assassinat de Cánovas (1897) i la Guerra de Cuba són, tot i ser fets diferents, part d'una mateixa crisi general del sistema?",
+      "respostaIdeal": "Perquè ambdós mostren, per vies diferents, que el sistema de la Restauració no podia contenir els conflictes que ell mateix generava: la violència anarquista (que acaba amb la vida de Cánovas) respon a la repressió social interna, mentre que la guerra de Cuba respon a l'incompliment sistemàtic de les promeses colonials. Els dos fronts de crisi, l'intern i el colonial, conflueixen just abans del Desastre de 1898."
+    }
+  },
+  {
+    "id": "cp6",
+    "afterEventId": "t26",
+    "rangeLabel": "1898-1899",
+    "titol": "El Desastre i les seves rèpliques",
+    "comentariSintesi": "L'explosió del Maine (febrer 1898) va donar als EUA l'excusa per declarar la guerra i derrotar Espanya en qüestió de mesos; el Tractat de París (desembre 1898) va posar fi a l'imperi colonial espanyol. Però \"el Desastre\" no es va acabar aquí: per pagar la guerra, el govern Silvela va pujar els impostos el 1899, i Catalunya hi va respondre amb el Tancament de Caixes, una revolta fiscal que va acabar en embargaments i dimissions. En només any i mig, Espanya havia perdut l'imperi i el seu sistema polític havia quedat clarament qüestionat des de dins.",
+    "preguntes": [
+      {
+        "pregunta": "Quin esdeveniment va ser l'excusa immediata perquè els EUA declaressin la guerra a Espanya el 1898?",
+        "opcions": ["El Tractat de París", "L'explosió del cuirassat Maine", "La Pau de Zanjón", "El Grito de Baire"],
+        "correcta": 1,
+        "explicacio": "L'explosió, de causa incerta, del Maine al port de l'Havana el febrer de 1898 va precipitar la declaració de guerra de l'abril."
+      },
+      {
+        "pregunta": "Per què Catalunya va organitzar el Tancament de Caixes el 1899?",
+        "opcions": ["Per demanar la independència", "Perquè el govern va pujar els impostos i va negar el concert econòmic", "Per protestar contra la Setmana Tràgica", "Per demanar l'abolició de la monarquia"],
+        "correcta": 1,
+        "explicacio": "La pujada fiscal per pagar el cost de la guerra, sumada a la negativa al concert econòmic, va provocar la vaga fiscal patronal catalana."
+      },
+      {
+        "pregunta": "Quines colònies va perdre Espanya amb el Tractat de París de 1898?",
+        "opcions": ["Només Cuba", "Cuba, Puerto Rico, Filipines i Guam", "Totes les possessions africanes i americanes", "Cap, només va pagar una indemnització"],
+        "correcta": 1,
+        "explicacio": "Espanya va reconèixer la independència de Cuba i va cedir Puerto Rico, Filipines i Guam als EUA, conservant només les possessions africanes."
+      }
+    ],
+    "pregunta_obert": {
+      "enunciat": "Explica la relació de causa-efecte entre la guerra de 1898 i el Tancament de Caixes de 1899.",
+      "respostaIdeal": "Per finançar la guerra de Cuba i Filipines, l'Estat espanyol es va haver d'endeutar molt; un cop acabada la guerra (i perduda), el ministre Villaverde va apujar els impostos a la indústria i el comerç per fer front a aquest deute. Com que el govern també va confirmar que no hi hauria concert econòmic per a Catalunya, els sectors industrials i comercials catalans van respondre amb una vaga fiscal: el Tancament de Caixes."
+    }
+  },
+  {
+    "id": "cp7",
+    "afterEventId": "t30",
+    "rangeLabel": "1901-1906",
+    "titol": "Un nou segle, els mateixos problemes",
+    "comentariSintesi": "El fracàs evident del sistema després del 98 va impulsar dues respostes paral·leles: a Catalunya, els crítics amb la gestió de la crisi es van organitzar en la Lliga Regionalista (1901); a Madrid, Alfons XIII —major d'edat des de 1902— es va immiscuir cada cop més en el joc polític just quan els partits dinàstics perdien els seus fundadors (Cánovas el 1897, Sagasta el 1903). Amb Antoni Maura al capdavant del Partit Conservador intentant una \"revolución desde arriba\" que mai va acabar de reeixir, i amb l'expansió colonial al Marroc obrint un nou front de conflicte des de 1906, totes les peces per a la crisi de la dècada següent ja estaven damunt la taula.",
+    "preguntes": [
+      {
+        "pregunta": "Quin partit català va néixer el 1901 arran de la crítica a la gestió de la crisi colonial?",
+        "opcions": ["La Unió Catalanista", "La Lliga Regionalista", "El Centre Català", "Esquerra Republicana"],
+        "correcta": 1,
+        "explicacio": "Enric Prat de la Riba la va fundar a partir dels grups que havien criticat el Tancament de Caixes i la política colonial."
+      },
+      {
+        "pregunta": "Què tenien en comú Cánovas (mort el 1897) i Sagasta (mort el 1903)?",
+        "opcions": ["Tots dos eren líders anarquistes", "Eren els fundadors dels dos partits dinàstics del torn pacífic", "Tots dos van morir a la guerra de Cuba", "Eren líders del catalanisme"],
+        "correcta": 1,
+        "explicacio": "La seva desaparició va deixar el Partit Conservador i el Liberal sense les figures que havien sostingut el torn pacífic des de 1875."
+      },
+      {
+        "pregunta": "Quin polític va intentar una \"revolución desde arriba\" al capdavant del Partit Conservador després de 1903?",
+        "opcions": ["Francisco Silvela", "Antoni Maura", "Segismundo Moret", "José Canalejas"],
+        "correcta": 1,
+        "explicacio": "Maura va assumir el lideratge del Partit Conservador i va intentar reformar el sistema polític \"des de dalt\" sense trencar-lo del tot."
+      }
+    ],
+    "pregunta_obert": {
+      "enunciat": "Per què la mort de Sagasta (1903), sis anys després de la de Cánovas (1897), es pot considerar un punt d'inflexió per al torn pacífic?",
+      "respostaIdeal": "Perquè amb la desaparició dels dos fundadors del sistema, ni el Partit Conservador ni el Liberal conservaven ja el lideratge que havia fet possible l'acord original del torn pacífic. A partir d'aquí, figures com Maura o Canalejas intentarien reformar-lo o gestionar-lo, però sense la mateixa autoritat fundacional, cosa que explica la creixent inestabilitat i divisió interna dels dos partits en els anys següents."
+    }
+  },
+  {
+    "id": "cp8",
+    "afterEventId": "t33",
+    "rangeLabel": "1907-1909",
+    "titol": "Cap a l'esclat",
+    "comentariSintesi": "La reorganització sindical (Solidaritat Obrera, 1907) i catalanista (Solidaritat Catalana, 1907) mostrava una societat civil cada cop més mobilitzada al marge dels partits dinàstics. La guerra del Marroc en va ser el detonant final: l'enviament de reservistes després de la derrota del Barranco del Lobo (1909) va desencadenar la Setmana Tràgica a Barcelona, un motí popular antimilitar i anticlerical reprimit amb una duresa (afusellament de Ferrer i Guàrdia) que va desprestigiar tant el govern com la monarquia, forçant la caiguda de Maura.",
+    "preguntes": [
+      {
+        "pregunta": "Quin fet immediat va desencadenar la Setmana Tràgica de 1909?",
+        "opcions": ["L'assassinat de Canalejas", "L'enviament de reservistes a la guerra del Marroc", "El Tancament de Caixes", "La fundació de la CNT"],
+        "correcta": 1,
+        "explicacio": "Després de la derrota del Barranco del Lobo, l'enviament de reservistes (pares de família treballadors) va calar molt malament entre les classes populars barcelonines."
+      },
+      {
+        "pregunta": "Quina conseqüència política va tenir la repressió de la Setmana Tràgica?",
+        "opcions": ["Maura va reforçar el seu govern", "Alfons XIII el va cessar per desprestigi", "Es va concedir l'autonomia a Catalunya immediatament", "Espanya va abandonar el Marroc"],
+        "correcta": 1,
+        "explicacio": "L'afusellament de Ferrer i Guàrdia, entre altres, va indignar l'opinió pública i les cancelleries europees, i el rei va acabar cessant Maura."
+      },
+      {
+        "pregunta": "Quina organització catalanista de coalició es va formar el 1907, en paral·lel a Solidaritat Obrera?",
+        "opcions": ["La Lliga Regionalista", "Solidaritat Catalana", "Unió Catalanista", "Esquerra Republicana de Catalunya"],
+        "correcta": 1,
+        "explicacio": "Solidaritat Catalana (1907-1908) va ser una coalició de forces catalanistes, coetània de la reorganització sindical de Solidaritat Obrera."
+      }
+    ],
+    "pregunta_obert": {
+      "enunciat": "Quina relació hi ha entre la política colonial al Marroc (des de 1906) i la Setmana Tràgica (1909)?",
+      "respostaIdeal": "L'expansió colonial espanyola al Marroc des de 1906 va portar a conflictes militars amb els rifenys; la derrota del Barranco del Lobo el 1909 va obligar el govern a enviar reservistes (homes casats i treballadors) a la guerra, una mesura molt impopular entre les classes populars barcelonines, que hi van respondre amb el motí conegut com la Setmana Tràgica."
+    }
+  },
+  {
+    "id": "cp9",
+    "afterEventId": "t36",
+    "rangeLabel": "1910-1917",
+    "titol": "L'inici de la fi",
+    "comentariSintesi": "Amb Maura fora, els liberals de Canalejas van intentar reformar el sistema des de dins (ley del candado, protecció social, mancomunitats), però el seu assassinat el 1912 va fragmentar definitivament els dos partits dinàstics en faccions sense una clara identitat ideològica. Mentrestant, el moviment obrer s'havia reorganitzat amb força pròpia (CGT 1910, CNT 1911), fins al punt de poder-se permetre vagues generals conjuntes amb la UGT el 1916-1917 en un context d'encariment de la vida per la Primera Guerra Mundial. Amb els partits del torn pacífic esmicolats i un moviment obrer unit i mobilitzat, el sistema de la Restauració havia perdut alhora els seus suports interns i la seva capacitat de contenir el conflicte social.",
+    "preguntes": [
+      {
+        "pregunta": "Què va passar amb els partits dinàstics (Conservador i Liberal) després de la mort de Canalejas (1912)?",
+        "opcions": ["Es van fusionar en un sol partit", "Es van fragmentar en faccions sense una clara distinció ideològica", "Van desaparèixer immediatament", "Es van unir a la CNT"],
+        "correcta": 1,
+        "explicacio": "Van sorgir faccions com els datistes/mauristes al Conservador i diverses branques al Liberal, dividides per lideratge, no per ideologia."
+      },
+      {
+        "pregunta": "Quin factor extern va agreujar la crisi social que va portar a les vagues generals de 1916-1917?",
+        "opcions": ["La guerra de Cuba", "La Primera Guerra Mundial (encariment de la vida)", "La Setmana Tràgica", "El Tractat de París"],
+        "correcta": 1,
+        "explicacio": "Tot i que Espanya era neutral, l'encariment de preus provocat per la guerra europea va agreujar les condicions de vida obreres."
+      },
+      {
+        "pregunta": "Quin sindicat es va fundar el 1911 amb el diari \"Solidaridad Obrera\" com a òrgan de premsa?",
+        "opcions": ["La UGT", "La CNT", "La CGT", "El PSOE"],
+        "correcta": 1,
+        "explicacio": "La CNT neix el 1911 a partir de l'evolució de Solidaritat Obrera i la CGT, i esdevindrà el sindicat més important d'Espanya."
+      }
+    ],
+    "pregunta_obert": {
+      "enunciat": "Explica per què es diu que, el 1917, el sistema de la Restauració havia perdut alhora els seus suports interns i la seva capacitat de contenir el conflicte social.",
+      "respostaIdeal": "Perquè, d'una banda, els partits dinàstics (Conservador i Liberal) estaven fragmentats en faccions sense una identitat clara des de la mort de Canalejas (1912), i de l'altra, el moviment obrer (UGT i CNT) s'havia enfortit i unificat fins al punt de poder fer vagues generals conjuntes el 1916-1917, agreujades per l'encariment de la vida provocat per la Primera Guerra Mundial. Sense suports polítics sòlids ni capacitat de contenció social, el sistema estava abocat a la crisi definitiva."
+    }
+  }
+]

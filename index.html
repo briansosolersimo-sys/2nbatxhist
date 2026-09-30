@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="ca" data-theme="light">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Tema 1 — La Restauració (1875-1917) | Història 2n Bach</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;0,700;1,400&family=Poppins:wght@500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles/main.css">
+<link rel="stylesheet" href="styles/timeline.css">
+<link rel="stylesheet" href="styles/table.css">
+</head>
+<body>
+
+<header class="site-header">
+  <div class="header-content">
+    <p class="eyebrow">Història 2n Batxillerat</p>
+    <h1>Tema 1 · La Restauració <span class="years">(1875-1917)</span></h1>
+    <p class="subtitle">Avança per la timeline: cada fet porta la idea i la font relacionades al costat</p>
+  </div>
+  <button id="theme-toggle" class="theme-toggle" aria-label="Canvia entre tema clar i fosc" title="Canvia tema">
+    <span id="theme-icon">🌙</span>
+  </button>
+</header>
+
+<nav class="section-nav" aria-label="Navegació de seccions">
+  <a href="#timeline">🕐 Timeline</a>
+  <a href="#idees">💡 Idees</a>
+  <a href="#comparativa">⚖️ Comparativa</a>
+  <a href="#fonts">📜 Fonts</a>
+</nav>
+
+<main>
+
+  <section id="timeline" class="timeline-section">
+    <div class="section-heading">
+      <h2>Timeline (1870-1917)</h2>
+      <p class="section-hint">El fil principal. Cada fet ja porta al costat la idea general i, si n'hi ha, un tast de la font primària relacionada — no cal saltar de secció per relacionar-ho tot.</p>
+    </div>
+
+    <div id="idees" class="idea-legend-wrapper">
+      <span class="legend-label">💡 Idees Generals — clica per veure la definició completa:</span>
+      <div id="idea-legend" class="idea-legend"></div>
+    </div>
+
+    <div class="timeline-filters">
+      <label>
+        Subperíode
+        <select id="filter-subperiode">
+          <option value="all">Tots</option>
+          <option value="1875-1898">1a part (1875-1898)</option>
+          <option value="1898-1917">2a part (1898-1917)</option>
+        </select>
+      </label>
+      <label>
+        Tipus de fet
+        <select id="filter-tipus">
+          <option value="all">Tots</option>
+          <option value="politica">Política</option>
+          <option value="guerra">Guerra / conflicte</option>
+          <option value="reforma">Reforma legal</option>
+          <option value="social">Moviment social</option>
+          <option value="cultural">Cultural / identitari</option>
+        </select>
+      </label>
+      <span id="timeline-count" class="filter-count"></span>
+    </div>
+    <div id="timeline-container" class="timeline-container" aria-live="polite"></div>
+  </section>
+
+  <section id="comparativa" class="table-section">
+    <div class="section-heading">
+      <h2>Taula Comparativa · Bàndols i Forces Polítiques</h2>
+      <p class="section-hint">Ara que ja has vist els bàndols apareixent a la timeline, compara'ls tots de cop: idees, líders, base social i mètodes. Fes clic a una fila per ampliar-la.</p>
+    </div>
+    <div class="table-filters">
+      <label>
+        Tipus de força
+        <select id="filter-comparativa-tipus">
+          <option value="all">Totes</option>
+          <option value="Dinàstic">Dinàstic</option>
+          <option value="Oposició política">Oposició política</option>
+          <option value="Obrer">Obrer</option>
+          <option value="Nacionalista">Nacionalista</option>
+        </select>
+      </label>
+    </div>
+    <div class="table-wrapper">
+      <table id="comparativa-table">
+        <thead>
+          <tr>
+            <th>Bàndol</th>
+            <th>Tipus</th>
+            <th>Idees Clau</th>
+            <th>Líders</th>
+            <th>Base Social</th>
+          </tr>
+        </thead>
+        <tbody id="comparativa-body"></tbody>
+      </table>
+    </div>
+  </section>
+
+  <section id="fonts" class="fonts-section">
+    <div class="section-heading">
+      <h2>Índex de Fonts Primàries</h2>
+      <p class="section-hint">Ja n'has llegit fragments a la timeline. Aquí tens totes 10 per consulta ràpida abans d'un comentari de text.</p>
+    </div>
+    <div id="fonts-grid" class="fonts-grid" aria-live="polite"></div>
+  </section>
+
+</main>
+
+<div id="modal-overlay" class="modal-overlay hidden">
+  <div id="modal-content" class="modal-content" role="dialog" aria-modal="true">
+    <button id="modal-close" class="modal-close" aria-label="Tanca">✕</button>
+    <div id="modal-body"></div>
+  </div>
+</div>
+
+<footer class="site-footer">
+  <p>Eina d'estudi col·laborativa · Història 2n Batxillerat · Dades a <code>data/*.json</code></p>
+</footer>
+
+<script src="scripts/main.js" defer></script>
+<script src="scripts/timeline.js" defer></script>
+<script src="scripts/table.js" defer></script>
+<script src="scripts/fonts.js" defer></script>
+</body>
+</html>

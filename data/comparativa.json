@@ -1,0 +1,101 @@
+[
+  {
+    "id": "c01",
+    "bando": "Partit Conservador",
+    "tipus": "Dinàstic",
+    "ideesClau": "Estat confessional catòlic (tolerància limitada envers altres cultes), llibertats restrictives, ordre públic i immobilisme social, proteccionisme econòmic, sufragi censatari.",
+    "motiusPolitics": "Mantenir l'estabilitat i l'ordre social heretat de la Restauració, defensant els interessos de les classes altes.",
+    "lideres": "Antonio Cánovas del Castillo (fins 1897); Francisco Silvela; Antoni Maura; Eduardo Dato",
+    "baseSocial": "Terratinents, burgesia industrial catalana i basca, jerarquia eclesiàstica (classes altes)",
+    "contextEuropeu": "Partit anàleg als conservadorismes europeus post-1871, defensors de l'ordre monàrquic i censatari.",
+    "periodeActiu": "1875-1917"
+  },
+  {
+    "id": "c02",
+    "bando": "Partit Liberal",
+    "tipus": "Dinàstic",
+    "ideesClau": "Societat laica (separació Església-Estat), llibertat de cultes, drets i llibertats individuals, reformisme social, lliurecanvisme, sufragi universal masculí (des de 1890).",
+    "motiusPolitics": "Integrar dins el sistema els sectors progressistes i demòcrates del Sexenni, ampliant gradualment les llibertats.",
+    "lideres": "Práxedes Mateo Sagasta (fins 1903); Segismundo Moret; José Canalejas; Comte de Romanones; García Prieto",
+    "baseSocial": "Mitjana i petita burgesia, sectors professionals (classes mitjanes)",
+    "contextEuropeu": "Equivalent als liberalismes progressistes europeus, partidaris d'ampliar el sufragi i reduir el pes de l'Església.",
+    "periodeActiu": "1875-1917"
+  },
+  {
+    "id": "c03",
+    "bando": "Carlisme",
+    "tipus": "Oposició política",
+    "ideesClau": "Legitimisme dinàstic alternatiu, tradicionalisme catòlic ultraconservador, defensa dels furs.",
+    "motiusPolitics": "Rebuig de la dinastia alfonsina i defensa d'un model d'estat confessional i foralista.",
+    "lideres": "Cándido Nocedal; Ramón Nocedal (Partit Integrista, 1888); Jaume de Borbó; Vázquez de Mella",
+    "baseSocial": "Pagesia i sectors catòlics tradicionalistes de Navarra, País Basc i interior de Catalunya",
+    "contextEuropeu": "Comparable a altres legitimismes catòlics contrarevolucionaris del segle XIX europeu.",
+    "periodeActiu": "1875-1917 (i més enllà)"
+  },
+  {
+    "id": "c04",
+    "bando": "Republicanisme",
+    "tipus": "Oposició política",
+    "ideesClau": "República, sufragi universal masculí, estat laic; molt dividit entre progressistes, centralistes, possibilistes, federals, radicals i reformistes.",
+    "motiusPolitics": "Substituir la monarquia per un règim republicà; alguns corrents (radicals) hi afegeixen un fort discurs anticlerical i, a Barcelona, anticatalanista.",
+    "lideres": "Nicolás Salmerón; Emilio Castelar; Pi i Margall; Ruiz Zorrilla; Alejandro Lerroux; Melquíades Álvarez; Vicente Blasco Ibáñez",
+    "baseSocial": "Classes mitjanes i populars urbanes",
+    "contextEuropeu": "Herència de la Primera República francesa i dels moviments republicans mediterranis del XIX.",
+    "periodeActiu": "1875-1917 (i més enllà)"
+  },
+  {
+    "id": "c05",
+    "bando": "Socialisme (PSOE / UGT)",
+    "tipus": "Obrer",
+    "ideesClau": "Marxisme: lluita de classes, dictadura del proletariat, crítica de la plusvàlua. Acció política i sindical dins la legalitat.",
+    "motiusPolitics": "Millora de les condicions obreres (jornada de 8 hores, salaris mínims) i, a llarg termini, transformació del sistema capitalista.",
+    "lideres": "Pablo Iglesias",
+    "baseSocial": "Obrers urbans de Madrid, País Basc, Astúries; minoritari a Catalunya",
+    "contextEuropeu": "Integrat a la Segona Internacional Socialista (1889), en paral·lel a la socialdemocràcia alemanya i europea.",
+    "periodeActiu": "1879-1917 (i més enllà)"
+  },
+  {
+    "id": "c06",
+    "bando": "Anarquisme (FRE / CNT)",
+    "tipus": "Obrer",
+    "ideesClau": "Societat sense classes, sense Estat, sense propietat privada ni religió. Rebuig de l'acció política; acció sindical directa (anarcosindicalisme) o terrorisme (\"propaganda pel fet\").",
+    "motiusPolitics": "Destrucció de l'Estat i col·lectivització dels mitjans de producció mitjançant l'acció directa de les masses.",
+    "lideres": "Mikhail Bakunin i Piotr Kropotkin (referents ideològics); Salvador Seguí; Àngel Pestaña; Joan Peiró",
+    "baseSocial": "Classe obrera catalana (anarcosindicalisme) i jornalers agraris andalusos (anarcocomunisme)",
+    "contextEuropeu": "Escissió de la Primera Internacional (Congrés de l'Haia, 1872); Espanya, un dels pocs països amb anarquisme majoritari.",
+    "periodeActiu": "1870-1917 (i més enllà)"
+  },
+  {
+    "id": "c07",
+    "bando": "Catalanisme / Regionalisme català",
+    "tipus": "Nacionalista",
+    "ideesClau": "Reconeixement identitari i autogovern de Catalunya; evolució des del culturalisme (Renaixença) fins al conservadorisme polític modern (Lliga Regionalista).",
+    "motiusPolitics": "Reivindicar l'autonomia administrativa i el concert econòmic, especialment després del Tancament de Caixes (1899) i la crisi colonial.",
+    "lideres": "Enric Prat de la Riba; Francesc Cambó",
+    "baseSocial": "Burgesia industrial i professionals catalans",
+    "contextEuropeu": "Part de l'onada de nacionalismes perifèrics europeus de finals del segle XIX.",
+    "periodeActiu": "1882-1917 (i més enllà)"
+  },
+  {
+    "id": "c08",
+    "bando": "Nacionalisme basc (PNB)",
+    "tipus": "Nacionalista",
+    "ideesClau": "Catolicisme, reivindicació identitària (\"raça\"), independentisme.",
+    "motiusPolitics": "Reacció identitària davant la industrialització accelerada i la immigració a Biscaia.",
+    "lideres": "Sabino de Arana",
+    "baseSocial": "Classes mitjanes basques",
+    "contextEuropeu": "Nacionalisme ètnic-cultural comparable a altres moviments identitaris europeus de l'època.",
+    "periodeActiu": "1895-1917 (i més enllà)"
+  },
+  {
+    "id": "c09",
+    "bando": "Regionalismes gallec i andalús",
+    "tipus": "Nacionalista",
+    "ideesClau": "Galícia: galleguisme fonamentalment cultural. Andalusia: afirmació identitària (Blas Infante, \"El ideal andaluz\", 1915; Congrés de Ronda, 1918: escut, bandera i himne).",
+    "motiusPolitics": "Reconeixement cultural i identitari, amb menys articulació política que el cas català o basc en aquest període.",
+    "lideres": "Blas Infante",
+    "baseSocial": "Sectors intel·lectuals locals",
+    "contextEuropeu": "Manifestacions més tardanes i culturalment orientades de l'onada de nacionalismes perifèrics.",
+    "periodeActiu": "1915-1917 (i més enllà)"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": "sistema-canovista",
+    "era": "Restauració",
+    "concepte": "Sistema Canovista / Torn Pacífic",
+    "color": "#8b2635",
+    "definicio": "Sistema polític dissenyat per Antonio Cánovas del Castillo després del retorn dels Borbons (1875). Es basava en l'alternança pacífica en el poder de dos grans partits dinàstics —el Conservador (Cánovas) i el Liberal (Sagasta)— que compartien el suport a la monarquia constitucional i a la Constitució de 1876. El rei decidia quan s'havia de produir el relleu entre partits, i les eleccions es falsejaven sistemàticament (caciquisme, tupinades) per garantir el resultat pactat. L'objectiu era evitar la inestabilitat crònica del segle XIX i integrar els sectors moderats de la Revolució de 1868.",
+    "durada": "1875-1917 (amb crisi creixent des de 1898)",
+    "figuresClau": ["Antonio Cánovas del Castillo", "Práxedes Mateo Sagasta", "Alfons XII", "Alfons XIII"],
+    "contextEuropeu": "Coincideix amb l'expansió dels sistemes parlamentaris censataris a l'Europa de la Restauració conservadora post-1871, en paral·lel al bipartidisme britànic que va inspirar Cánovas durant l'estada d'Alfons a Sandhurst."
+  },
+  {
+    "id": "caciquisme",
+    "era": "Restauració",
+    "concepte": "Caciquisme i falsejament electoral",
+    "color": "#8b2635",
+    "definicio": "Mecanisme de control social i polític que permetia falsejar el suposat règim parlamentari. El ministre de Governació elaborava l'\"encasillado\" (llista de diputats que havien de sortir elegits); governadors civils, alcaldes i cacics locals s'encarregaven d'aplicar-lo mitjançant compra de vots, coacció i \"tupinades\" (pucherazos): cens inflat amb morts (\"llàtzers\"), vots afegits a les urnes o recompte falsejat. El cacic exercia un control econòmic, administratiu i coactiu sobre la població rural, afavorit per l'abstencionisme (80%) i l'analfabetisme (75%).",
+    "durada": "1875-1917 (denunciat especialment des de 1898)",
+    "figuresClau": ["Joaquín Costa (crític, Oligarquía y caciquismo, 1901)"],
+    "contextEuropeu": "Fenomen de clientelisme polític comparable a altres perifèries rurals europees amb sufragi censatari o universal poc consolidat, però especialment intens a Espanya per l'elevat analfabetisme i la feble vertebració de l'estat local."
+  },
+  {
+    "id": "catalanisme",
+    "era": "Restauració",
+    "concepte": "Catalanisme i moviments regionalistes/nacionalistes",
+    "color": "#1b5e20",
+    "definicio": "Moviment polític i cultural que reivindicava el reconeixement identitari i l'autogovern de Catalunya, sorgit inicialment com a moviment culturalista (Renaixença) i progressivament politizat: Centre Català (1882), Lliga de Catalunya (1887), Unió Catalanista (1891) i finalment la Lliga Regionalista (1901, Prat de la Riba), que va néixer de la crítica dels sectors catalans a la gestió de la crisi colonial. Paral·lelament es desenvoluparen el nacionalisme basc (PNB, Sabino de Arana, 1895), el galleguisme cultural i l'afirmació identitària andalusa (Blas Infante).",
+    "durada": "1882-1917 (i més enllà)",
+    "figuresClau": ["Sabino de Arana", "Enric Prat de la Riba", "Francesc Cambó", "Blas Infante"],
+    "contextEuropeu": "S'insereix en l'onada de nacionalismes perifèrics europeus de finals del XIX (irlandès, txec, polonès...) impulsats pel romanticisme cultural i, després, per l'organització política de les burgesies regionals."
+  },
+  {
+    "id": "anarquisme",
+    "era": "Restauració",
+    "concepte": "Obrerisme: Anarquisme",
+    "color": "#37474f",
+    "definicio": "Corrent del moviment obrer que defensava una societat sense classes, sense Estat, sense propietat privada ni religió, basada en la col·lectivització i l'acció sindical directa. Es dividia entre anarcocol·lectivistes/anarcosindicalistes (Bakunin, sobretot a Catalunya) i anarcocomunistes partidaris de l'acció terrorista (Kropotkin, Malatesta, sobretot a Andalusia: \"propaganda pel fet\"). Va evolucionar des de la Federació Regional Espanyola de l'AIT (1870) fins a Solidaritat Obrera (1907) i la fundació de la CNT (1911, Congrés de Sants 1918).",
+    "durada": "1870-1917 (i més enllà)",
+    "figuresClau": ["Mikhail Bakunin", "Piotr Kropotkin", "Salvador Seguí \"el Noi del Sucre\"", "Àngel Pestaña", "Joan Peiró"],
+    "contextEuropeu": "Paral·lel a l'escissió internacional entre marxistes i bakuninistes a la Primera Internacional (Congrés de l'Haia, 1872), amb Espanya com un dels pocs països on l'anarquisme va esdevenir la corrent obrera majoritària."
+  },
+  {
+    "id": "socialisme",
+    "era": "Restauració",
+    "concepte": "Obrerisme: Socialisme",
+    "color": "#37474f",
+    "definicio": "Corrent del moviment obrer d'inspiració marxista (lluita de classes, dictadura del proletariat, crítica de la plusvàlua) que apostava per l'acció política i sindical dins la legalitat. Pablo Iglesias va fundar el PSOE (1879) i la UGT (1888), amb reivindicacions com la jornada de 8 hores i els salaris mínims. El seu creixement fou lent però progressiu (1r diputat el 1910, dins la Conjunció Republicano-socialista de 1909), amb implantació a Madrid, País Basc, Astúries i, minoritàriament, a Catalunya.",
+    "durada": "1879-1917 (i més enllà)",
+    "figuresClau": ["Pablo Iglesias", "Karl Marx (influència ideològica)"],
+    "contextEuropeu": "Part de la Segona Internacional Socialista (fundada 1889), en un moment d'expansió dels partits socialdemòcrates europeus (SPD alemany, etc.) i de debat entre reforma i revolució."
+  },
+  {
+    "id": "desastre-98",
+    "era": "Restauració",
+    "concepte": "Colonialisme i \"El Desastre\" del 98",
+    "color": "#b26a00",
+    "definicio": "Procés de pèrdua de les darreres colònies espanyoles (Cuba, Puerto Rico, Filipines, Guam) arran de la Guerra de Cuba (1895-98) i la Guerra Hispanoamericana (1898). La intervenció dels EUA (esclat del cuirassat Maine, febrer 1898) va precipitar la derrota espanyola i el Tractat de París (desembre 1898), pel qual Espanya reconeixia la independència de Cuba i cedia la resta de possessions. Les conseqüències foren un elevat cost humà (uns 50.000 morts espanyols), l'impacte econòmic (deute públic, pujada d'impostos, Tancament de Caixes) i la pèrdua d'estatus internacional d'Espanya.",
+    "durada": "1895-1898",
+    "figuresClau": ["José Martí", "Máximo Gómez", "Antonio Maceo", "Valeriano Weyler", "Emilio Aguinaldo"],
+    "contextEuropeu": "S'emmarca en la fase final de l'imperialisme colonial del segle XIX i en l'emergència dels EUA com a potència amb projecció exterior pròpia (política de \"Destí Manifest\")."
+  },
+  {
+    "id": "regeneracionisme",
+    "era": "Restauració",
+    "concepte": "Regeneracionisme",
+    "color": "#b26a00",
+    "definicio": "Moviment intel·lectual i polític sorgit com a resposta al \"Desastre\" de 1898, que denunciava el caciquisme i l'endarreriment d'Espanya i reclamava modernització, foment de l'educació i de la riquesa, i l'\"oblit de les glòries del passat\". Joaquín Costa n'és la figura de referència (Oligarquía y caciquismo, 1901). A nivell polític es va traduir en intents de \"revolución desde arriba\" (Antonio Maura) i en la crítica cultural de la Generació del 98. A Catalunya, alguns dels seus partidaris confluïren en la Lliga Regionalista (1901).",
+    "durada": "1898-1917 (influència duradora)",
+    "figuresClau": ["Joaquín Costa", "Antonio Maura", "Francisco Silvela"],
+    "contextEuropeu": "Paral·lel als debats de modernització i crítica nacional que es donaven en altres països europeus perifèrics o en declivi imperial (per exemple, el debat sobre la \"decadència\" a Portugal o Àustria-Hongria)."
+  },
+  {
+    "id": "oposicio-dinastica",
+    "era": "Restauració",
+    "concepte": "Forces d'oposició al sistema dinàstic",
+    "color": "#4a148c",
+    "definicio": "Conjunt de forces polítiques que no acceptaven el sistema del torn pacífic. El republicanisme, molt dividit en faccions (progressista, centralista, possibilista, federal, radical, reformista), reclamava la República, el sufragi universal i l'estat laic. El carlisme, minoritari però amb implantació a Navarra, el País Basc i l'interior de Catalunya, defensava la legitimitat dinàstica alternativa i el tradicionalisme catòlic. Totes aquestes forces es van poder legalitzar a partir de 1881.",
+    "durada": "1875-1917 (i més enllà)",
+    "figuresClau": ["Nicolás Salmerón", "Alejandro Lerroux", "Emilio Castelar", "Pi i Margall", "Cándido Nocedal"],
+    "contextEuropeu": "Reflex de la persistència de moviments republicans i legitimistes/tradicionalistes en altres monarquies restaurades europees del segle XIX."
+  }
+]

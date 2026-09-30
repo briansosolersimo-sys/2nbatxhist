@@ -1,0 +1,428 @@
+.timeline-filters {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+  align-items: end;
+  margin-bottom: 28px;
+}
+
+.timeline-filters label {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  font-size: 0.78rem;
+  font-weight: 600;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+}
+
+.timeline-filters select {
+  font-family: var(--font-body);
+  font-size: 0.95rem;
+  padding: 8px 10px;
+  border-radius: 8px;
+  border: 1px solid var(--border);
+  background: var(--bg-raised);
+  color: var(--text);
+}
+
+.filter-count {
+  align-self: center;
+  color: var(--text-muted);
+  font-size: 0.85rem;
+}
+
+.timeline-container {
+  position: relative;
+  padding-left: 28px;
+}
+
+.timeline-container::before {
+  content: "";
+  position: absolute;
+  left: 8px;
+  top: 6px;
+  bottom: 6px;
+  width: 2px;
+  background: var(--border);
+}
+
+.timeline-item {
+  position: relative;
+  margin-bottom: 18px;
+  padding: 14px 16px;
+  background: var(--bg-raised);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  cursor: pointer;
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.timeline-item:hover, .timeline-item:focus-visible {
+  transform: translateX(3px);
+  box-shadow: 0 6px 18px var(--shadow);
+}
+
+.timeline-item::before {
+  content: attr(data-icon);
+  position: absolute;
+  left: -34px;
+  top: 14px;
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+  background: var(--tipus-color, var(--accent));
+  color: white;
+  font-size: 0.8rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.timeline-item .timeline-date {
+  font-family: var(--font-heading);
+  font-weight: 700;
+  font-size: 0.8rem;
+  color: var(--tipus-color, var(--accent));
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+}
+
+.timeline-item h3 {
+  margin: 4px 0 4px;
+  font-size: 1.05rem;
+}
+
+.timeline-item p {
+  margin: 0;
+  font-size: 0.88rem;
+  color: var(--text-muted);
+}
+
+.timeline-item .timeline-badge {
+  display: inline-block;
+  margin-top: 8px;
+  font-size: 0.7rem;
+  padding: 2px 9px;
+  border-radius: 999px;
+  background: var(--tipus-color, var(--accent));
+  color: white;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+}
+
+.timeline-empty {
+  color: var(--text-muted);
+  font-style: italic;
+  padding: 20px 0;
+}
+
+.timeline-inline-relations {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-top: 10px;
+}
+
+.timeline-inline-relations:empty { margin-top: 0; }
+
+.inline-idea-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  font-family: var(--font-body);
+  font-size: 0.74rem;
+  padding: 3px 10px 3px 8px;
+  border-radius: 999px;
+  border: 1px solid var(--border);
+  background: var(--bg-alt);
+  color: var(--text);
+  cursor: pointer;
+}
+
+.inline-idea-chip:hover { transform: translateY(-1px); }
+
+.inline-font-snippet {
+  display: block;
+  width: 100%;
+  text-align: left;
+  font-family: var(--font-body);
+  background: var(--bg-alt);
+  border: 1px solid var(--border);
+  border-left: 3px solid var(--tipus-color, var(--accent));
+  border-radius: 6px;
+  padding: 7px 10px;
+  cursor: pointer;
+  margin-top: 2px;
+}
+
+.inline-font-label {
+  display: block;
+  font-size: 0.7rem;
+  font-weight: 600;
+  color: var(--text-muted);
+  margin-bottom: 2px;
+}
+
+.inline-font-quote {
+  display: block;
+  font-size: 0.78rem;
+  font-style: italic;
+  color: var(--text);
+}
+
+/* Checkpoint card (quiz + synthesis): spans full width, breaks the alternating pattern */
+.timeline-checkpoint {
+  position: relative;
+  clear: both;
+  margin: 26px 0 30px;
+  padding: 20px 22px;
+  background: var(--bg-alt);
+  border: 1px solid var(--accent);
+  border-radius: 14px;
+  cursor: default;
+}
+
+.timeline-checkpoint::before {
+  content: "";
+  position: absolute;
+  left: -30px;
+  top: 50%;
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  background: var(--accent);
+  transform: translateY(-50%);
+}
+
+.checkpoint-header {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  width: 100%;
+  border: none;
+  background: none;
+  padding: 0;
+  margin: 0;
+  cursor: pointer;
+  font-family: var(--font-heading);
+  color: var(--text);
+  text-align: left;
+}
+
+.checkpoint-header-text { flex: 1; }
+
+.checkpoint-icon { font-size: 1.6rem; }
+
+.checkpoint-chevron {
+  font-size: 1.1rem;
+  color: var(--accent);
+  flex-shrink: 0;
+  transition: transform 0.15s ease;
+}
+
+.checkpoint-range {
+  display: block;
+  font-size: 0.72rem;
+  font-weight: 700;
+  color: var(--accent);
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+.checkpoint-header h3 {
+  margin: 2px 0 0;
+  font-size: 1.1rem;
+}
+
+.timeline-checkpoint:not(.collapsed) { padding-bottom: 22px; }
+
+.checkpoint-body {
+  margin-top: 16px;
+  padding-top: 16px;
+  border-top: 1px dashed var(--border);
+}
+
+.checkpoint-body.hidden { display: none; }
+
+.checkpoint-synthesis {
+  font-size: 0.92rem;
+  line-height: 1.65;
+  margin: 0 0 16px;
+}
+
+.quiz-question { margin-bottom: 14px; }
+
+.quiz-question:last-child { margin-bottom: 0; }
+
+.quiz-question-text {
+  font-family: var(--font-heading);
+  font-weight: 600;
+  font-size: 0.9rem;
+  margin: 0 0 8px;
+}
+
+.quiz-options {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 6px;
+}
+
+.quiz-option {
+  font-family: var(--font-body);
+  font-size: 0.85rem;
+  text-align: left;
+  padding: 8px 12px;
+  border-radius: 8px;
+  border: 1px solid var(--border);
+  background: var(--bg-raised);
+  color: var(--text);
+  cursor: pointer;
+  transition: background 0.12s ease, transform 0.1s ease;
+}
+
+.quiz-option:hover:not(.disabled) {
+  transform: translateY(-1px);
+  box-shadow: 0 3px 10px var(--shadow);
+}
+
+.quiz-option.disabled { cursor: default; }
+
+.quiz-option.correct {
+  background: #2e7d32;
+  border-color: #2e7d32;
+  color: white;
+}
+
+.quiz-option.incorrect {
+  background: #b71c1c;
+  border-color: #b71c1c;
+  color: white;
+}
+
+.quiz-feedback {
+  margin: 8px 0 0;
+  font-size: 0.85rem;
+  padding: 8px 12px;
+  border-radius: 8px;
+}
+
+.quiz-feedback.hidden { display: none; }
+
+.quiz-feedback.feedback-correct {
+  background: rgba(46, 125, 50, 0.15);
+  color: var(--text);
+}
+
+.quiz-feedback.feedback-incorrect {
+  background: rgba(183, 28, 28, 0.12);
+  color: var(--text);
+}
+
+.quiz-open {
+  margin-top: 18px;
+  padding-top: 16px;
+  border-top: 1px dashed var(--border);
+}
+
+.quiz-open-input {
+  width: 100%;
+  font-family: var(--font-body);
+  font-size: 0.88rem;
+  padding: 10px 12px;
+  border-radius: 8px;
+  border: 1px solid var(--border);
+  background: var(--bg-raised);
+  color: var(--text);
+  resize: vertical;
+  margin-bottom: 8px;
+}
+
+.quiz-reveal-btn {
+  font-family: var(--font-heading);
+  font-size: 0.82rem;
+  font-weight: 600;
+  padding: 7px 14px;
+  border-radius: 8px;
+  border: 1px solid var(--accent);
+  background: none;
+  color: var(--accent);
+  cursor: pointer;
+}
+
+.quiz-reveal-btn:hover { background: var(--accent); color: white; }
+
+.quiz-ideal-answer {
+  margin-top: 10px;
+  padding: 10px 14px;
+  border-radius: 8px;
+  background: var(--bg-raised);
+  font-size: 0.88rem;
+}
+
+.quiz-ideal-answer.hidden { display: none; }
+
+.quiz-ideal-answer p { margin: 4px 0 0; }
+
+.checkpoint-retry-btn {
+  display: block;
+  margin: 20px auto 0;
+  font-family: var(--font-heading);
+  font-size: 0.82rem;
+  font-weight: 600;
+  padding: 8px 18px;
+  border-radius: 999px;
+  border: 1px solid var(--border);
+  background: var(--bg-raised);
+  color: var(--text);
+  cursor: pointer;
+}
+
+.checkpoint-retry-btn:hover {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+
+@media (min-width: 860px) {
+  .timeline-container {
+    padding-left: 0;
+    max-width: 900px;
+    margin: 0 auto;
+  }
+  .timeline-container::before {
+    left: 50%;
+    transform: translateX(-50%);
+  }
+  .timeline-item {
+    width: calc(50% - 36px);
+    margin-bottom: 22px;
+  }
+  .timeline-side-left {
+    margin-right: calc(50% + 36px);
+    text-align: right;
+  }
+  .timeline-side-right {
+    margin-left: calc(50% + 36px);
+  }
+  .timeline-side-left::before {
+    left: auto;
+    right: -46px;
+  }
+  .timeline-side-right::before {
+    left: -46px;
+  }
+  .timeline-side-left .timeline-inline-relations {
+    justify-content: flex-end;
+  }
+  .timeline-checkpoint {
+    width: 100%;
+    margin-left: 0;
+    text-align: left;
+  }
+  .timeline-checkpoint::before {
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+}
